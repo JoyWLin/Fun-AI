@@ -7,4 +7,6 @@
 * After navigating to your folder, run the main.py file in Command Prompt, e.g., for me I put this command: python main.py test.m4a
 * When the audio text is ready, you will see a txt file in your folder.
 
+Tutorial: https://youtu.be/JlusJYd8ekI
+
 Prerequisite for this speech/voice/audio to text process works only for users who have installed python in their machine.
